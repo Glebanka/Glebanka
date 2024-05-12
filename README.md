@@ -1,10 +1,10 @@
-<h1 align="left">Здарова!</h1>
+<h1 align="left">Привет! 😝</h1>
 
 <div>
-<h3 align="left">Я Глеб, Frontend React разрабочик, 
+<h3 align="left">Я Глеб, Frontend React разрабочик, <a href="https://github.com/stars/Glebanka/lists/my-stack" target="_blank">смотри мои актуальные проекты</a> и 
   <a href="https://t.me/bankagle" target="_blank">
     пиши мне
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="15" height="15" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="13" height="13" alt="telegram logo"  />
   </a>
 </h3>
 </div>
